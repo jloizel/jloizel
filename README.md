@@ -9,6 +9,10 @@
 I'm a passionate engineer with a focus on building scalable, efficient, useful and fun applications. I have a strong background in developing frontend applications with a backend integration. I have learned to develop a deep understanding of various coding languages and frameworks in a short amount of time. I always enjoy solving challenging engineering problems. But above all — I love building things, especially things that others may find useful or interesting.
 
 <h4 align="center">
+  <a href="https://github.com/jloizel/jloizel/blob/main/resume.pdf" title="My resume"><img src="https://img.shields.io/badge/-MY RESUME-50C878?style=for-the-badge" alt="LinkedIn"></a>
+</h4>
+
+<h4 align="center">
   <a href="https://www.linkedin.com/in/jackloizel/" title="LinkedIn Profile"><img src="https://img.shields.io/badge/-CONNECT-0a66c2?style=for-the-badge&logo=linkedIn&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:loizeljack@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/-EMAIL-ff5d5d?style=for-the-badge&logo=gmail&logoColor=white&labelColor" alt="Gmail"></a>
   <a href="https://jackloizel.com/" title="Portfolio"><img src="https://img.shields.io/badge/-EXPLORE-FF4088?style=for-the-badge&logo=googleCloud&logoColor=white" alt="Portfolio"></a>
