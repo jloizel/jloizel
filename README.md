@@ -34,7 +34,7 @@ I'm a passionate engineer with a focus on building scalable, efficient, useful a
 
 ### <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="45" /> About Me:
 - 💻  I love exploring new technologies and building cool stuff.
-- 🚀 I’m currently exploring JS, TS, React, etc.
+- 🚀 I’m currently exploring React Native, check out my app I built in a week <a href="https://github.com/jloizel/hackrApp">here</a>
 - ⚡ Fun fact: I started playing basketball when I was 3.
 - 👯 Let’s connect for a game of Chess ♟.
 - 💬 Got a question or just curious about something? Feel free to ask!
@@ -56,6 +56,10 @@ I'm a passionate engineer with a focus on building scalable, efficient, useful a
 - 🏀 **HoopsToGlory** - A captivating incremental clicker game where players manage training and career decisions to secure the top NBA draft pick.
 
 - 📁 **Portfolio** - An online portfolio showcasing my skills, projects, and background. Built for a clean, user-friendly experience.
+
+- 🌍 **Natalie's Next Stop** - A travel blog for Natalie, showcasing her adventures around the world.
+
+- 🧩 **Hackr** - An interactive coding challenge app designed to help you develop your programming skills through engaging daily coding puzzles.
 
 <br />
 
