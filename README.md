@@ -43,7 +43,7 @@ I'm a passionate engineer with a focus on building scalable, efficient, useful a
 
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
 
-| <img align="center" src="https://github-readme-streak-stats-seven-azure.vercel.app/?user=jloizel&theme=react" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jloizel&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" /> |
+| <img align="center" src="https://github-readme-streak-stats-seven-azure.vercel.app/?user=jloizel&theme=react&card_height=100" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jloizel&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" /> |
 | ------------- | ------------- |
 
 <br />
