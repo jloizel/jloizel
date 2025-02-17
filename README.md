@@ -63,7 +63,7 @@ I'm a passionate engineer with a focus on building scalable, efficient, useful a
 
 - 🧩 **Hackr** - An interactive coding challenge app designed to help you develop your programming skills through engaging daily coding puzzles.
   
-- 🚧 **JobTrackr** - A job tracking app designed to streamline and organise your job search process. The app focuses on helping users track applications and store personal files so they never miss an opportunity.
+- 📋 **JobTrackr** - A job tracking app designed to streamline and organise your job search process. The app focuses on helping users track applications and store personal files so they never miss an opportunity.
 
 
 <br />
