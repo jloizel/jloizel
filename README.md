@@ -49,7 +49,6 @@ I'm a passionate engineer with a focus on building scalable, efficient, useful a
 <br />
 
 ### 🛠️ Currently Working On:
-- 🚧 JobTrackr - A job tracking app designed to streamline and organise your job search process. The app focuses on helping users track applications and store personal files so they never miss an opportunity.
 
 ### 🌟 Featured Projects
 - 🎮 **metroguessr** - An engaging city-based game where players guess metro stations, boasting over 10,000 users and featured in leading publications.
@@ -63,6 +62,9 @@ I'm a passionate engineer with a focus on building scalable, efficient, useful a
 - 🌍 **Natalie's Next Stop** - A travel blog for Natalie, showcasing her adventures around the world.
 
 - 🧩 **Hackr** - An interactive coding challenge app designed to help you develop your programming skills through engaging daily coding puzzles.
+  
+- 🚧 **JobTrackr** - A job tracking app designed to streamline and organise your job search process. The app focuses on helping users track applications and store personal files so they never miss an opportunity.
+
 
 <br />
 
